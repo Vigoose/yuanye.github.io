@@ -10,9 +10,11 @@ Two Master degrees at Information Systems with Five year IT-specific projects ex
 ###### Houston, Texas Area, June 2014 - April 2019 (4 years 10 months)
 "EPEC" design,  system integration and initiation. [EPEC.COM](global.epec.com)  
 As China's one of the largest oil and gas Company with over 30 yearsprofessional procurement experience and supply chain resources, Sinopectried to build and share a trading e-commerce platform establishing theconnection between US and China.Participating the entire development life cycle of EPEC global website, main responsible includes:
-- Worked as a technical role to cooperate and implement the industrial e-commerce project and took responsibility of technologies implementation andbusiness requirement design. • Designed and implemented workflows to integrate legacy systems (SAP/ERP, Material Management System and Global Supplier ManagementSystem) into a distributed e-commerce web application which supports EPECbusiness. 
+- Worked as a technical role to cooperate and implement the industrial e-commerce project and took responsibility of technologies implementation andbusiness requirement design. 
+- Designed and implemented workflows to integrate legacy systems (SAP/ERP, Material Management System and Global Supplier ManagementSystem) into a distributed e-commerce web application which supports EPECbusiness. 
 - Optimized the website performance by adding CDN and browser cache andallocating servers in different locales. 
-- Performed unit testing and function testing in Java which covered over 80%code base. – Unit Testing, Function Testing
+- Performed unit testing and function testing in Java which covered over 80%code base. **– Unit Testing, Function Testing**
+
 ---
 ### Sortware Engineer
 #### Holtzbrinck Publishing Group
