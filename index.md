@@ -2,9 +2,18 @@
 ##### www.linkedin.com/in/yuanyexia | Sunnyvale, California
 
 ## PROFILE
-Two Master degrees at Information Systems with Five year IT-specific projects experience. Software Engineer in Full Stack development with strong problem-solving ability and business analysis skills.
+IT Professional with 6 years of experience in Software development, also experienced in IT Project management and have solid problem solving and business analytics skills, Customer-oriented with great passion and innovation in cutting-edge technic
 
 ## PROFESSIONAL EXPERIENCE
+### Software Engineer
+#### Oracle America 
+###### Redwood City, CA, Jan 2020 - Now
+- Design and implement new features for Oracle’s core Private Cloud Appliance (PCA) functionality
+- Implement, improve, and deploy component-level microservice via Kubernetes cluster, communicate upgrade information L1 API through RabbitMQ to user interface
+- Integrate Oracle Sauron with visual log UI extracted from elastic search and Prometheus of deployed health check pods on Kubernetes Cluster
+- Perform root cause analysis for bugs seen in QE and at customer installations.
+
+---
 ### IT Project Engineer 
 #### Sinopec USA, Inc. 
 ###### Houston, Texas Area, June 2014 - April 2019 (4 years 10 months)
